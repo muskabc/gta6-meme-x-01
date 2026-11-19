@@ -19,7 +19,7 @@ Waited 13 years for GTA 6. Still watching the download bar. Meanwhile my AI agen
 
 ## After posting
 
-Fill the post's address into POST.json as
-`{"url": "https://x.com/kubilewo/status/<id>"}` and commit before
-submitting. Do not edit the post text afterwards (X posts can't be
+Posted 2026-11-20T02:18:36+09:00 from @kubilewo:
+https://x.com/kubilewo/status/2123465977937494017
+Its address is in POST.json. Do not edit the post text afterwards (X posts can't be
 edited; a wrong post means posting again).
